@@ -280,6 +280,77 @@ Inspired by the classic **awesome-xxx** lists.
 
 ---
 
+## 2022
+
+- **KTool**  
+  Service that forwards web articles, newsletters, and RSS feeds directly to Kindle.  
+  🔗 https://ktool.io/
+
+- **MessageDuck**  
+  SMS-based data marketing platform built to address gaps in existing solutions.  
+  🔗 https://www.messageduck.com/
+
+- **OnlineOrNot**  
+  Hosted status pages with built-in uptime monitoring.  
+  🔗 https://onlineornot.com/
+
+- **Junior to Senior**  
+  Book and newsletter helping software engineers grow from junior to senior roles, averaging $500+/month in sales.  
+  🔗 https://www.holloway.com/b/junior-to-senior
+
+- **Velomapa**  
+  Cycling-focused website in Poland featuring routes, races, and community content.  
+  🔗 https://velomapa.pl/
+
+- **Checkvisaslots**  
+  Chrome extension and platform helping visa applicants track and share slot availability.  
+  🔗 https://checkvisaslots.com/
+
+- **Gaintrain**  
+  Meal planning app designed to help users optimize muscle gain.  
+  🔗 https://gaintrainapp.com/
+
+- **Vlad Studio**  
+  Long-running digital art and wallpaper subscription business generating ~$500/month.  
+  🔗 https://vlad.studio/
+
+- **Undisclosed Tool**  
+  A long-running web tool that generated ~$5k/month before being shut down after 8 years.
+
+- **Mailsac**  
+  Disposable email service for QA and development teams, running for over a decade.  
+  🔗 https://mailsac.com/
+
+- **Pepchecker**  
+  API and dashboard for monitoring politically exposed persons and sanctions.  
+  🔗 https://pepchecker.com/
+
+- **MesoSim**  
+  Advanced options trading backtesting platform for SPX, BTC, and ETH derivatives.  
+  🔗 https://portal.deltaray.io/
+
+- **Sleeve**  
+  macOS “Now Playing” desktop accessory app averaging around $700/month.  
+  🔗 https://replay.software/sleeve
+
+- **Validbot**  
+  Automated website configuration testing and monitoring platform.  
+  🔗 https://www.validbot.com/
+
+- **Inveester**  
+  Stock portfolio tracking mobile app focused on dividends and passive income.  
+  🔗 https://www.inveester.com/
+
+- **Breeze Order Manager**  
+  Batch PayPal order printing tool running for over 7 years.  
+  🔗 http://breeze.humbersoft.ca/
+
+- **Deltaoutpost**  
+  Private Ethereum node hosting service generating ~$2k MRR.  
+  🔗 https://deltaoutpost.io/
+
+---
+
 ## Contributing
 
 PRs are welcome!
